@@ -26,6 +26,6 @@ Note: Not *every* element, image, or section needs to be viewed on the mobile/ta
 5. Create a `gh-pages` branch and sync to Github.
 6. Grab your link: http://username.github.io/ualbany.
 7. If you have a smart phone, open up your project to check your work. (**cough** meta viewport tag **cough**)
-8. [**Submit your project**](https://docs.google.com/forms/d/1z1jfWC8p_baP-aRAoavH9XsTSiBvKoYMzaKo0HMGUqo/viewform) before 5:45 pm on 10/23
+8. [**Submit your project**](https://docs.google.com/forms/d/1z1jfWC8p_baP-aRAoavH9XsTSiBvKoYMzaKo0HMGUqo/viewform) before 5:45 pm on 10/28
 
 Need help? Ask your team or classmates. Really need help? Ask me!
